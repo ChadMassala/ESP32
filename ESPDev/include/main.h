@@ -10,5 +10,7 @@
 #include "DisplayHandle.h"
 #include <NTPClient.h>
 #include <WiFiUdp.h>
+#include <PubSubClient.h>
+#include "MQTTPublisher.h"
 
 #endif
